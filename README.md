@@ -1,3 +1,23 @@
+# Breast Cancer Classification Project
+
+## **Project Overview**
+This project focuses on classifying breast cancer cases using machine learning algorithms.
+
+## **Dataset Features**
+The dataset contains the following columns:
+- `Age`
+- `Race`
+- `Marital Status`
+- `T Stage`
+- `Stage`
+- `6th Stage`
+- `Differentiate`
+- `Grade`
+- `A Stage`
+- `Tumor Size`
+
+## **Data Preprocessing and Visualization**
+
 ## **Machine Learning Models**
 The following ML classification algorithms were applied:
 1. Logistic Regression
@@ -18,5 +38,8 @@ The following ML classification algorithms were applied:
 | Gradient Boosting     | 90.35%    |
 
 The Random Forest Classifier gave the best performance with an accuracy of **98.24%**.
+
+
+
 
 
